@@ -1,0 +1,9 @@
+*.DS_Store
+*debug_settings.txt
+*.vscode/
+*.dSYM/
+*.txt
+*.swp
+*.swo
+*.zip
+resources/*
